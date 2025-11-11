@@ -27,7 +27,6 @@ I love building clean, responsive, and scalable applications using **React**, **
 
 ### 🌍 Connect with Me
 - 📧 **Email:** eyobhabte16@gmail.com   
-- 🧑‍💻 **GitHub:** [github.com/EyobHabte](https://github.com/EyobHabte)
 
 ---
 
